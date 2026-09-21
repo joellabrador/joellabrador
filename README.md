@@ -1,4 +1,4 @@
-# 👋 Hola! Soc [El Teu Nom]
+# 👋 Hola! Soc [Joel Labrador]
 
 ### 💻 Desenvolupador/a Software | Aprenent constant
 
